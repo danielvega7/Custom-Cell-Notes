@@ -14,6 +14,7 @@
 		1189709427355B01006783EB /* Custom_Cell_Notes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1189709227355B01006783EB /* Custom_Cell_Notes.xcdatamodeld */; };
 		1189709627355B03006783EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1189709527355B03006783EB /* Assets.xcassets */; };
 		1189709927355B03006783EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1189709727355B03006783EB /* LaunchScreen.storyboard */; };
+		118970A127355F30006783EB /* MyCustomCell4Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118970A027355F30006783EB /* MyCustomCell4Life.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1189709527355B03006783EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1189709827355B03006783EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1189709A27355B03006783EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		118970A027355F30006783EB /* MyCustomCell4Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomCell4Life.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1189708927355B01006783EB /* AppDelegate.swift */,
 				1189708B27355B01006783EB /* SceneDelegate.swift */,
 				1189708D27355B01006783EB /* ViewController.swift */,
+				118970A027355F30006783EB /* MyCustomCell4Life.swift */,
 				1189708F27355B01006783EB /* Main.storyboard */,
 				1189709527355B03006783EB /* Assets.xcassets */,
 				1189709727355B03006783EB /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				1189708E27355B01006783EB /* ViewController.swift in Sources */,
 				1189708A27355B01006783EB /* AppDelegate.swift in Sources */,
 				1189708C27355B01006783EB /* SceneDelegate.swift in Sources */,
+				118970A127355F30006783EB /* MyCustomCell4Life.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
